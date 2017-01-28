@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 .git folder is created. need to keep track of file and for version 
 control.
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+It differs in terms that it provide more control over what file should the 
+commit wroks on.
